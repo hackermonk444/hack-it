@@ -1,7 +1,7 @@
 def test():
     print ("TESTING and setting up git repo  ")
-    print("following PYTHON FOR HACKERS 101 !!!")
+    print("following PYTHON FOR HACKERS 101  by tcm security!!!")
 
 test()
-name = "nimish jindal"
+name = "HACKER MONK"
 startDate="22-07-2025"
